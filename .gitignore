@@ -1,0 +1,13 @@
+__pycache__/
+build/
+*.pyc
+
+# Vivado working files
+.Xil/
+clockInfo.txt
+tight_setup_hold_pins.txt
+vivado*.jou
+vivado*.log
+*.jou
+*.log
+*.str
